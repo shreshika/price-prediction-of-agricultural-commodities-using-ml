@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Price Prediction of Agricultural Commodities using various Machine Learning techniques</title>
+<link href="static/css/del.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="page-container">
+    <h1>Price Prediction of Agricultural Commodities using various Machine Learning techniques</h1>
+            <form action="{{url_for('home')}}", method="POST">
+                <label>Enter Commodity</label>
+                <input type="dropdown" name="Commodity" class="Name" ><br></br>
+                <label>Enter Variety</label>
+                <input type="text" name="Variety" class="number" ><br></br>
+                <label>Enter MaxPrice</label>
+                <input type="text" name="Max" class="Name" ><br></br>
+                <label>Enter Min Price</label>
+				<input type="text" name="Min" class="Address" ><br></br>
+                <button type="submit" value="Predict1" name="Predict1">Predict Price </button>
+                
+            </form>
+            <div align="center" >
+               <p><h2> Predicted Price using Linear Regression is : {{prediction}}</h2> </p>
+            </div>
+            <div align="center">
+               <p><h2> Predicted Price using Random Forest is : {{prediction1}}</h2></p>
+            </div>
+            <div align="center">  
+                <p> <h2>Predicted Price  using Decision Tree is : {{prediction2}}</h2></p>
+            </div>
+               
+            
+        </div>
+		
+
+</body>
+</html>

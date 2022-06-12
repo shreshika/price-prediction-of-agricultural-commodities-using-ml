@@ -1,0 +1,45 @@
+state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+Chattisgarh,Surajpur,Surajpur,Paddy(Dhan)(Common),I.R. 36,17/01/2021,1890,1890,1890
+Gujarat,Bharuch,Jambusar,Arhar (Tur/Red Gram)(Whole),Other,17/01/2021,4300,4900,4600
+Gujarat,Bharuch,Jambusar,Bajra(Pearl Millet/Cumbu),Other,17/01/2021,1600,2000,1800
+Gujarat,Bharuch,Jambusar,Castor Seed,Other,17/01/2021,3300,3900,3600
+Gujarat,Bharuch,Jambusar,Cotton,Other,17/01/2021,4400,4800,4600
+Gujarat,Bharuch,Jambusar,Jowar(Sorghum),Other,17/01/2021,1800,2200,2000
+Gujarat,Bharuch,Jambusar,Maize,Other,17/01/2021,1600,1800,1700
+Gujarat,Bharuch,Jambusar,Wheat,Other,17/01/2021,1700,2100,1900
+Haryana,Kurukshetra,Pehowa,Cauliflower,Other,17/01/2021,1500,1600,1600
+Haryana,Kurukshetra,Pehowa,Onion,Other,17/01/2021,1500,1600,1600
+Haryana,Kurukshetra,Pehowa,Potato,Other,17/01/2021,1300,1500,1400
+Madhya Pradesh,Shivpuri,Shivpuri,Wheat,Other,17/01/2021,1840,1840,1840
+Madhya Pradesh,Shivpuri,Shivpuri(F&V),Tomato,Other,17/01/2021,1000,1000,1000
+Maharashtra,Pune,Pune(Khadiki),Cauliflower,Other,17/01/2021,400,700,550
+Maharashtra,Pune,Pune(Khadiki),Onion,Local,17/01/2021,2100,2800,2450
+Maharashtra,Pune,Pune(Khadiki),Potato,Other,17/01/2021,1400,1700,1550
+Odisha,Dhenkanal,Hindol,Banana - Green,Other,17/01/2021,2400,2600,2500
+Odisha,Dhenkanal,Hindol,Beans,Other,17/01/2021,2800,3200,3000
+Odisha,Dhenkanal,Hindol,Bhindi(Ladies Finger),Bhindi,17/01/2021,3500,4000,3800
+Odisha,Dhenkanal,Hindol,Bitter gourd,Bitter Gourd,17/01/2021,3400,3600,3500
+Odisha,Dhenkanal,Hindol,Brinjal,Brinjal,17/01/2021,2000,3000,2500
+Odisha,Dhenkanal,Hindol,Cucumbar(Kheera),Cucumbar,17/01/2021,3000,3500,3200
+Odisha,Dhenkanal,Hindol,Onion,Other,17/01/2021,3600,4000,3800
+Odisha,Dhenkanal,Hindol,Pointed gourd (Parval),Other,17/01/2021,6000,7000,6500
+Odisha,Dhenkanal,Hindol,Potato,Potato,17/01/2021,1500,1800,1700
+Odisha,Dhenkanal,Hindol,Pumpkin,Pumpkin,17/01/2021,1600,1800,1700
+Odisha,Dhenkanal,Hindol,Tomato,Tomato,17/01/2021,1000,1200,1100
+Rajasthan,Chittorgarh,Begu,Wheat,Other,17/01/2021,1200,1600,1450
+Tamil Nadu,Erode,Vellakkoil,Copra,Copra,17/01/2021,7620,12060,11715
+Telangana,Medak,Sangareddy,Cabbage,Cabbage,17/01/2021,800,1100,1000
+Telangana,Medak,Sangareddy,Green Chilli,Green Chilly,17/01/2021,2000,2400,2200
+Telangana,Medak,Sangareddy,Tomato,Deshi,17/01/2021,500,800,600
+Tripura,South District,Kalsi,Cabbage,Other,17/01/2021,2000,3000,2500
+Tripura,South District,Kalsi,Cauliflower,Other,17/01/2021,1500,2500,2000
+Tripura,South District,Kalsi,Green Chilli,Other,17/01/2021,7000,10000,8000
+Tripura,South District,Kalsi,Potato,Other,17/01/2021,1500,2000,1700
+Uttar Pradesh,Badaun,Babrala,Wheat,Other,17/01/2021,1700,1800,1750
+Uttar Pradesh,Badaun,Visoli,Bajra(Pearl Millet/Cumbu),Hybrid,17/01/2021,1320,1350,1340
+Uttar Pradesh,Bareilly,Bahedi,Brinjal,Brinjal,17/01/2021,940,1030,980
+Uttar Pradesh,Bareilly,Bahedi,Guava,Guava,17/01/2021,215,222,219
+Uttar Pradesh,Bareilly,Bahedi,Potato,Kufri Megha,17/01/2021,750,815,770
+Uttar Pradesh,Bareilly,Bahedi,Raddish,Raddish,17/01/2021,250,320,280
+Uttar Pradesh,Bareilly,Richha,Paddy(Dhan)(Common),Common,17/01/2021,1868,1868,1868
+Uttar Pradesh,Bijnor,Haldaur,Wheat,Dara,17/01/2021,1650,1800,1700
